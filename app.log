@@ -1,0 +1,671 @@
+2025-04-24 03:50:34,439 [INFO] 2025-04-24 03:50:34 [INFO] Database connection established
+2025-04-24 03:50:38,454 [INFO] 2025-04-24 03:50:38 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:50:41,776 [INFO] 2025-04-24 03:50:41 [INFO] Database connection established
+2025-04-24 03:50:45,709 [INFO] 2025-04-24 03:50:45 [INFO] Database connection established
+2025-04-24 03:50:47,927 [INFO] 2025-04-24 03:50:47 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:50:51,759 [INFO] 2025-04-24 03:50:51 [WARNING] Cache miss rate increased
+2025-04-24 03:50:53,483 [INFO] 2025-04-24 03:50:53 [INFO] User logged in
+2025-04-24 03:50:57,575 [INFO] 2025-04-24 03:50:57 [INFO] Database connection established
+2025-04-24 03:50:59,635 [INFO] 2025-04-24 03:50:59 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:51:04,572 [INFO] 2025-04-24 03:51:04 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:51:08,938 [INFO] 2025-04-24 03:51:08 [WARNING] Slow response time: 800ms
+2025-04-24 03:51:10,206 [INFO] 2025-04-24 03:51:10 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:51:12,943 [INFO] 2025-04-24 03:51:12 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:51:15,927 [INFO] 2025-04-24 03:51:15 [INFO] User logged in
+2025-04-24 03:51:18,007 [INFO] 2025-04-24 03:51:18 [WARNING] Slow response time: 800ms
+2025-04-24 03:51:22,791 [INFO] 2025-04-24 03:51:22 [WARNING] Cache miss rate increased
+2025-04-24 03:51:27,787 [INFO] 2025-04-24 03:51:27 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:51:32,312 [INFO] 2025-04-24 03:51:32 [INFO] Request processed successfully
+2025-04-24 03:51:36,268 [INFO] 2025-04-24 03:51:36 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:51:38,104 [INFO] 2025-04-24 03:51:38 [INFO] User logged in
+2025-04-24 03:51:42,317 [INFO] 2025-04-24 03:51:42 [INFO] Application started successfully
+2025-04-24 03:51:46,738 [INFO] 2025-04-24 03:51:46 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:51:49,126 [INFO] 2025-04-24 03:51:49 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:51:51,000 [INFO] 2025-04-24 03:51:51 [INFO] Request processed successfully
+2025-04-24 03:51:52,541 [INFO] 2025-04-24 03:51:52 [WARNING] Cache miss rate increased
+2025-04-24 03:51:56,464 [INFO] 2025-04-24 03:51:56 [INFO] Application started successfully
+2025-04-24 03:51:58,283 [INFO] 2025-04-24 03:51:58 [INFO] User logged in
+2025-04-24 03:52:00,910 [INFO] 2025-04-24 03:52:00 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:52:05,893 [INFO] 2025-04-24 03:52:05 [INFO] User logged in
+2025-04-24 03:52:08,579 [INFO] 2025-04-24 03:52:08 [INFO] Cache updated
+2025-04-24 03:52:12,499 [INFO] 2025-04-24 03:52:12 [WARNING] High memory usage detected: 85%
+2025-04-24 03:52:13,901 [INFO] 2025-04-24 03:52:13 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:52:17,577 [INFO] 2025-04-24 03:52:17 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:52:21,877 [INFO] 2025-04-24 03:52:21 [WARNING] Cache miss rate increased
+2025-04-24 03:52:23,645 [INFO] 2025-04-24 03:52:23 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:52:27,274 [INFO] 2025-04-24 03:52:27 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:52:32,007 [INFO] 2025-04-24 03:52:32 [INFO] Application started successfully
+2025-04-24 03:52:33,900 [INFO] 2025-04-24 03:52:33 [INFO] Cache updated
+2025-04-24 03:52:35,676 [INFO] 2025-04-24 03:52:35 [WARNING] Cache miss rate increased
+2025-04-24 03:52:37,161 [INFO] 2025-04-24 03:52:37 [INFO] Cache updated
+2025-04-24 03:52:39,441 [INFO] 2025-04-24 03:52:39 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:52:43,192 [INFO] 2025-04-24 03:52:43 [INFO] Application started successfully
+2025-04-24 03:52:47,194 [INFO] 2025-04-24 03:52:47 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:52:48,476 [INFO] 2025-04-24 03:52:48 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:52:49,953 [INFO] 2025-04-24 03:52:49 [ERROR] File system error: Disk full
+2025-04-24 03:52:51,016 [INFO] 2025-04-24 03:52:51 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:52:55,596 [INFO] 2025-04-24 03:52:55 [WARNING] Cache miss rate increased
+2025-04-24 03:53:00,570 [INFO] 2025-04-24 03:53:00 [WARNING] Cache miss rate increased
+2025-04-24 03:53:04,448 [INFO] 2025-04-24 03:53:04 [WARNING] Cache miss rate increased
+2025-04-24 03:53:08,597 [INFO] 2025-04-24 03:53:08 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:53:09,690 [INFO] 2025-04-24 03:53:09 [ERROR] File system error: Disk full
+2025-04-24 03:53:12,093 [INFO] 2025-04-24 03:53:12 [WARNING] Cache miss rate increased
+2025-04-24 03:53:16,084 [INFO] 2025-04-24 03:53:16 [WARNING] Slow response time: 800ms
+2025-04-24 03:53:19,944 [INFO] 2025-04-24 03:53:19 [INFO] Cache updated
+2025-04-24 03:53:24,821 [INFO] 2025-04-24 03:53:24 [INFO] Cache updated
+2025-04-24 03:53:27,752 [INFO] 2025-04-24 03:53:27 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:53:31,295 [INFO] 2025-04-24 03:53:31 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:53:35,802 [INFO] 2025-04-24 03:53:35 [INFO] Request processed successfully
+2025-04-24 03:53:36,968 [INFO] 2025-04-24 03:53:36 [INFO] Database connection established
+2025-04-24 03:53:40,745 [INFO] 2025-04-24 03:53:40 [INFO] Application started successfully
+2025-04-24 03:53:44,185 [INFO] 2025-04-24 03:53:44 [WARNING] API rate limit approaching
+2025-04-24 03:53:48,694 [INFO] 2025-04-24 03:53:48 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:53:51,786 [INFO] 2025-04-24 03:53:51 [WARNING] Slow response time: 800ms
+2025-04-24 03:53:55,052 [INFO] 2025-04-24 03:53:55 [WARNING] Slow response time: 800ms
+2025-04-24 03:53:57,770 [INFO] 2025-04-24 03:53:57 [WARNING] High memory usage detected: 85%
+2025-04-24 03:54:00,404 [INFO] 2025-04-24 03:54:00 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:54:02,678 [INFO] 2025-04-24 03:54:02 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:54:06,497 [INFO] 2025-04-24 03:54:06 [WARNING] API rate limit approaching
+2025-04-24 03:54:10,213 [INFO] 2025-04-24 03:54:10 [INFO] Application started successfully
+2025-04-24 03:54:13,950 [INFO] 2025-04-24 03:54:13 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:54:17,010 [INFO] 2025-04-24 03:54:17 [INFO] Request processed successfully
+2025-04-24 03:54:20,086 [INFO] 2025-04-24 03:54:20 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:54:24,693 [INFO] 2025-04-24 03:54:24 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:54:28,678 [INFO] 2025-04-24 03:54:28 [INFO] Database connection established
+2025-04-24 03:54:31,141 [INFO] 2025-04-24 03:54:31 [WARNING] Cache miss rate increased
+2025-04-24 03:54:35,087 [INFO] 2025-04-24 03:54:35 [ERROR] File system error: Disk full
+2025-04-24 03:54:36,304 [INFO] 2025-04-24 03:54:36 [INFO] User logged in
+2025-04-24 03:54:39,993 [INFO] 2025-04-24 03:54:39 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:54:43,281 [INFO] 2025-04-24 03:54:43 [WARNING] High memory usage detected: 85%
+2025-04-24 03:54:47,798 [INFO] 2025-04-24 03:54:47 [ERROR] File system error: Disk full
+2025-04-24 03:54:49,387 [INFO] 2025-04-24 03:54:49 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:54:53,153 [INFO] 2025-04-24 03:54:53 [INFO] Request processed successfully
+2025-04-24 03:54:57,905 [INFO] 2025-04-24 03:54:57 [INFO] Application started successfully
+2025-04-24 03:55:00,979 [INFO] 2025-04-24 03:55:00 [WARNING] High memory usage detected: 85%
+2025-04-24 03:55:03,993 [INFO] 2025-04-24 03:55:03 [INFO] User logged in
+2025-04-24 03:55:06,845 [INFO] 2025-04-24 03:55:06 [WARNING] High memory usage detected: 85%
+2025-04-24 03:55:10,073 [INFO] 2025-04-24 03:55:10 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:55:12,987 [INFO] 2025-04-24 03:55:12 [ERROR] File system error: Disk full
+2025-04-24 03:55:17,836 [INFO] 2025-04-24 03:55:17 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:55:19,983 [INFO] 2025-04-24 03:55:19 [INFO] Cache updated
+2025-04-24 03:55:23,553 [INFO] 2025-04-24 03:55:23 [INFO] Database connection established
+2025-04-24 03:55:25,530 [INFO] 2025-04-24 03:55:25 [INFO] Application started successfully
+2025-04-24 03:55:26,866 [INFO] 2025-04-24 03:55:26 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:55:29,542 [INFO] 2025-04-24 03:55:29 [INFO] Request processed successfully
+2025-04-24 03:55:33,202 [INFO] 2025-04-24 03:55:33 [INFO] Application started successfully
+2025-04-24 03:55:36,079 [INFO] 2025-04-24 03:55:36 [INFO] Application started successfully
+2025-04-24 03:55:37,808 [INFO] 2025-04-24 03:55:37 [WARNING] Cache miss rate increased
+2025-04-24 03:55:39,984 [INFO] 2025-04-24 03:55:39 [WARNING] API rate limit approaching
+2025-04-24 03:55:42,720 [INFO] 2025-04-24 03:55:42 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:55:45,261 [INFO] 2025-04-24 03:55:45 [ERROR] File system error: Disk full
+2025-04-24 03:55:49,734 [INFO] 2025-04-24 03:55:49 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:55:54,488 [INFO] 2025-04-24 03:55:54 [INFO] Application started successfully
+2025-04-24 03:55:58,493 [INFO] 2025-04-24 03:55:58 [INFO] Application started successfully
+2025-04-24 03:56:01,801 [INFO] 2025-04-24 03:56:01 [INFO] User logged in
+2025-04-24 03:56:03,064 [INFO] 2025-04-24 03:56:03 [ERROR] File system error: Disk full
+2025-04-24 03:56:06,912 [INFO] 2025-04-24 03:56:06 [INFO] Request processed successfully
+2025-04-24 03:56:08,956 [INFO] 2025-04-24 03:56:08 [INFO] User logged in
+2025-04-24 03:56:11,752 [INFO] 2025-04-24 03:56:11 [WARNING] High memory usage detected: 85%
+2025-04-24 03:56:15,747 [INFO] 2025-04-24 03:56:15 [INFO] User logged in
+2025-04-24 03:56:18,359 [INFO] 2025-04-24 03:56:18 [INFO] Request processed successfully
+2025-04-24 03:56:21,403 [INFO] 2025-04-24 03:56:21 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:56:23,859 [INFO] 2025-04-24 03:56:23 [INFO] Database connection established
+2025-04-24 03:56:25,976 [INFO] 2025-04-24 03:56:25 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:56:28,900 [INFO] 2025-04-24 03:56:28 [ERROR] File system error: Disk full
+2025-04-24 03:56:30,008 [INFO] 2025-04-24 03:56:30 [WARNING] Slow response time: 800ms
+2025-04-24 03:56:33,577 [INFO] 2025-04-24 03:56:33 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:56:38,443 [INFO] 2025-04-24 03:56:38 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:56:42,031 [INFO] 2025-04-24 03:56:42 [INFO] Request processed successfully
+2025-04-24 03:56:44,011 [INFO] 2025-04-24 03:56:44 [ERROR] File system error: Disk full
+2025-04-24 03:56:46,783 [INFO] 2025-04-24 03:56:46 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:56:48,323 [INFO] 2025-04-24 03:56:48 [INFO] Database connection established
+2025-04-24 03:56:53,091 [INFO] 2025-04-24 03:56:53 [WARNING] Slow response time: 800ms
+2025-04-24 03:56:55,390 [INFO] 2025-04-24 03:56:55 [WARNING] High memory usage detected: 85%
+2025-04-24 03:56:58,010 [INFO] 2025-04-24 03:56:58 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:57:02,252 [INFO] 2025-04-24 03:57:02 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:57:04,005 [INFO] 2025-04-24 03:57:04 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:57:05,608 [INFO] 2025-04-24 03:57:05 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:57:09,895 [INFO] 2025-04-24 03:57:09 [INFO] Request processed successfully
+2025-04-24 03:57:13,831 [INFO] 2025-04-24 03:57:13 [WARNING] Slow response time: 800ms
+2025-04-24 03:57:15,013 [INFO] 2025-04-24 03:57:15 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:57:16,090 [INFO] 2025-04-24 03:57:16 [INFO] Application started successfully
+2025-04-24 03:57:18,842 [INFO] 2025-04-24 03:57:18 [ERROR] File system error: Disk full
+2025-04-24 03:57:20,545 [INFO] 2025-04-24 03:57:20 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:57:24,566 [INFO] 2025-04-24 03:57:24 [WARNING] API rate limit approaching
+2025-04-24 03:57:26,892 [INFO] 2025-04-24 03:57:26 [INFO] Database connection established
+2025-04-24 03:57:29,738 [INFO] 2025-04-24 03:57:29 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:57:32,123 [INFO] 2025-04-24 03:57:32 [WARNING] High memory usage detected: 85%
+2025-04-24 03:57:33,733 [INFO] 2025-04-24 03:57:33 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:57:37,852 [INFO] 2025-04-24 03:57:37 [INFO] Database connection established
+2025-04-24 03:57:40,240 [INFO] 2025-04-24 03:57:40 [WARNING] High memory usage detected: 85%
+2025-04-24 03:57:41,257 [INFO] 2025-04-24 03:57:41 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:57:43,223 [INFO] 2025-04-24 03:57:43 [WARNING] Slow response time: 800ms
+2025-04-24 03:57:45,829 [INFO] 2025-04-24 03:57:45 [INFO] Request processed successfully
+2025-04-24 03:57:48,744 [INFO] 2025-04-24 03:57:48 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:57:50,263 [INFO] 2025-04-24 03:57:50 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:57:54,035 [INFO] 2025-04-24 03:57:54 [INFO] Cache updated
+2025-04-24 03:57:55,142 [INFO] 2025-04-24 03:57:55 [WARNING] Cache miss rate increased
+2025-04-24 03:57:59,449 [INFO] 2025-04-24 03:57:59 [INFO] User logged in
+2025-04-24 03:58:01,100 [INFO] 2025-04-24 03:58:01 [INFO] Request processed successfully
+2025-04-24 03:58:04,066 [INFO] 2025-04-24 03:58:04 [INFO] Request processed successfully
+2025-04-24 03:58:08,351 [INFO] 2025-04-24 03:58:08 [WARNING] High memory usage detected: 85%
+2025-04-24 03:58:13,346 [INFO] 2025-04-24 03:58:13 [INFO] Cache updated
+2025-04-24 03:58:16,813 [INFO] 2025-04-24 03:58:16 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:58:20,341 [INFO] 2025-04-24 03:58:20 [ERROR] File system error: Disk full
+2025-04-24 03:58:25,087 [INFO] 2025-04-24 03:58:25 [INFO] Request processed successfully
+2025-04-24 03:58:26,509 [INFO] 2025-04-24 03:58:26 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:58:27,877 [INFO] 2025-04-24 03:58:27 [WARNING] High memory usage detected: 85%
+2025-04-24 03:58:30,137 [INFO] 2025-04-24 03:58:30 [WARNING] Cache miss rate increased
+2025-04-24 03:58:33,214 [INFO] 2025-04-24 03:58:33 [WARNING] API rate limit approaching
+2025-04-24 03:58:37,047 [INFO] 2025-04-24 03:58:37 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:58:38,593 [INFO] 2025-04-24 03:58:38 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:58:43,279 [INFO] 2025-04-24 03:58:43 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:58:45,502 [INFO] 2025-04-24 03:58:45 [INFO] Application started successfully
+2025-04-24 03:58:48,427 [INFO] 2025-04-24 03:58:48 [INFO] Application started successfully
+2025-04-24 03:58:49,541 [INFO] 2025-04-24 03:58:49 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:58:54,071 [INFO] 2025-04-24 03:58:54 [INFO] Request processed successfully
+2025-04-24 03:58:58,639 [INFO] 2025-04-24 03:58:58 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:58:59,769 [INFO] 2025-04-24 03:58:59 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 03:59:04,078 [INFO] 2025-04-24 03:59:04 [ERROR] Database connection failed: Connection timeout
+2025-04-24 03:59:08,965 [INFO] 2025-04-24 03:59:08 [INFO] User logged in
+2025-04-24 03:59:12,703 [INFO] 2025-04-24 03:59:12 [WARNING] API rate limit approaching
+2025-04-24 03:59:13,888 [INFO] 2025-04-24 03:59:13 [INFO] User logged in
+2025-04-24 03:59:15,754 [INFO] 2025-04-24 03:59:15 [INFO] Request processed successfully
+2025-04-24 03:59:17,612 [INFO] 2025-04-24 03:59:17 [INFO] Cache updated
+2025-04-24 03:59:19,526 [INFO] 2025-04-24 03:59:19 [ERROR] File system error: Disk full
+2025-04-24 03:59:22,963 [INFO] 2025-04-24 03:59:22 [INFO] Application started successfully
+2025-04-24 03:59:26,114 [INFO] 2025-04-24 03:59:26 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:59:30,750 [INFO] 2025-04-24 03:59:30 [INFO] Cache updated
+2025-04-24 03:59:35,003 [INFO] 2025-04-24 03:59:35 [WARNING] High memory usage detected: 85%
+2025-04-24 03:59:38,724 [INFO] 2025-04-24 03:59:38 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:59:40,380 [INFO] 2025-04-24 03:59:40 [WARNING] Database connection pool at 80% capacity
+2025-04-24 03:59:43,429 [INFO] 2025-04-24 03:59:43 [WARNING] Cache miss rate increased
+2025-04-24 03:59:47,682 [INFO] 2025-04-24 03:59:47 [INFO] Application started successfully
+2025-04-24 03:59:49,245 [INFO] 2025-04-24 03:59:49 [INFO] Application started successfully
+2025-04-24 03:59:50,262 [INFO] 2025-04-24 03:59:50 [ERROR] Memory allocation error: Out of memory
+2025-04-24 03:59:53,360 [INFO] 2025-04-24 03:59:53 [ERROR] Payment processing failed: Invalid card
+2025-04-24 03:59:57,855 [INFO] 2025-04-24 03:59:57 [WARNING] High memory usage detected: 85%
+2025-04-24 04:00:02,188 [INFO] 2025-04-24 04:00:02 [WARNING] API rate limit approaching
+2025-04-24 04:00:04,811 [INFO] 2025-04-24 04:00:04 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:00:08,073 [INFO] 2025-04-24 04:00:08 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:00:13,020 [INFO] 2025-04-24 04:00:13 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:00:17,872 [INFO] 2025-04-24 04:00:17 [WARNING] Slow response time: 800ms
+2025-04-24 04:00:20,420 [INFO] 2025-04-24 04:00:20 [WARNING] Slow response time: 800ms
+2025-04-24 04:00:25,362 [INFO] 2025-04-24 04:00:25 [INFO] Database connection established
+2025-04-24 04:00:27,635 [INFO] 2025-04-24 04:00:27 [ERROR] File system error: Disk full
+2025-04-24 04:00:29,212 [INFO] 2025-04-24 04:00:29 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:00:31,416 [INFO] 2025-04-24 04:00:31 [INFO] Database connection established
+2025-04-24 04:00:34,739 [INFO] 2025-04-24 04:00:34 [ERROR] File system error: Disk full
+2025-04-24 04:00:36,167 [INFO] 2025-04-24 04:00:36 [INFO] Request processed successfully
+2025-04-24 04:00:39,435 [INFO] 2025-04-24 04:00:39 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:00:41,461 [INFO] 2025-04-24 04:00:41 [ERROR] File system error: Disk full
+2025-04-24 04:00:45,417 [INFO] 2025-04-24 04:00:45 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:00:48,312 [INFO] 2025-04-24 04:00:48 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:00:52,458 [INFO] 2025-04-24 04:00:52 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:00:55,615 [INFO] 2025-04-24 04:00:55 [INFO] Request processed successfully
+2025-04-24 04:00:59,663 [INFO] 2025-04-24 04:00:59 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:01:00,686 [INFO] 2025-04-24 04:01:00 [WARNING] High memory usage detected: 85%
+2025-04-24 04:01:05,590 [INFO] 2025-04-24 04:01:05 [WARNING] API rate limit approaching
+2025-04-24 04:01:08,209 [INFO] 2025-04-24 04:01:08 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:01:10,660 [INFO] 2025-04-24 04:01:10 [INFO] User logged in
+2025-04-24 04:01:13,748 [INFO] 2025-04-24 04:01:13 [WARNING] API rate limit approaching
+2025-04-24 04:01:15,910 [INFO] 2025-04-24 04:01:15 [INFO] User logged in
+2025-04-24 04:01:19,072 [INFO] 2025-04-24 04:01:19 [INFO] Application started successfully
+2025-04-24 04:01:23,481 [INFO] 2025-04-24 04:01:23 [WARNING] Slow response time: 800ms
+2025-04-24 04:01:24,780 [INFO] 2025-04-24 04:01:24 [INFO] Application started successfully
+2025-04-24 04:01:28,873 [INFO] 2025-04-24 04:01:28 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:01:31,021 [INFO] 2025-04-24 04:01:31 [WARNING] API rate limit approaching
+2025-04-24 04:01:34,093 [INFO] 2025-04-24 04:01:34 [WARNING] Slow response time: 800ms
+2025-04-24 04:01:35,983 [INFO] 2025-04-24 04:01:35 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:01:37,943 [INFO] 2025-04-24 04:01:37 [ERROR] File system error: Disk full
+2025-04-24 04:01:40,877 [INFO] 2025-04-24 04:01:40 [ERROR] File system error: Disk full
+2025-04-24 04:01:42,567 [INFO] 2025-04-24 04:01:42 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:01:45,935 [INFO] 2025-04-24 04:01:45 [WARNING] Cache miss rate increased
+2025-04-24 04:01:47,281 [INFO] 2025-04-24 04:01:47 [WARNING] Cache miss rate increased
+2025-04-24 04:01:51,032 [INFO] 2025-04-24 04:01:51 [WARNING] API rate limit approaching
+2025-04-24 04:01:52,305 [INFO] 2025-04-24 04:01:52 [INFO] Cache updated
+2025-04-24 04:01:55,814 [INFO] 2025-04-24 04:01:55 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:01:57,258 [INFO] 2025-04-24 04:01:57 [WARNING] API rate limit approaching
+2025-04-24 04:02:00,283 [INFO] 2025-04-24 04:02:00 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:02:02,331 [INFO] 2025-04-24 04:02:02 [WARNING] Cache miss rate increased
+2025-04-24 04:02:05,386 [INFO] 2025-04-24 04:02:05 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:02:07,053 [INFO] 2025-04-24 04:02:07 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:02:11,512 [INFO] 2025-04-24 04:02:11 [WARNING] Cache miss rate increased
+2025-04-24 04:02:15,906 [INFO] 2025-04-24 04:02:15 [WARNING] High memory usage detected: 85%
+2025-04-24 04:02:17,821 [INFO] 2025-04-24 04:02:17 [INFO] Application started successfully
+2025-04-24 04:02:20,187 [INFO] 2025-04-24 04:02:20 [INFO] Database connection established
+2025-04-24 04:02:23,407 [INFO] 2025-04-24 04:02:23 [WARNING] Cache miss rate increased
+2025-04-24 04:02:25,655 [INFO] 2025-04-24 04:02:25 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:02:27,655 [INFO] 2025-04-24 04:02:27 [WARNING] High memory usage detected: 85%
+2025-04-24 04:02:31,902 [INFO] 2025-04-24 04:02:31 [INFO] Request processed successfully
+2025-04-24 04:02:32,961 [INFO] 2025-04-24 04:02:32 [INFO] Request processed successfully
+2025-04-24 04:02:34,591 [INFO] 2025-04-24 04:02:34 [INFO] Cache updated
+2025-04-24 04:02:36,731 [INFO] 2025-04-24 04:02:36 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:02:38,942 [INFO] 2025-04-24 04:02:38 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:02:41,648 [INFO] 2025-04-24 04:02:41 [INFO] Cache updated
+2025-04-24 04:02:44,619 [INFO] 2025-04-24 04:02:44 [INFO] Cache updated
+2025-04-24 04:02:48,739 [INFO] 2025-04-24 04:02:48 [WARNING] High memory usage detected: 85%
+2025-04-24 04:02:52,133 [INFO] 2025-04-24 04:02:52 [WARNING] Slow response time: 800ms
+2025-04-24 04:02:54,718 [INFO] 2025-04-24 04:02:54 [ERROR] File system error: Disk full
+2025-04-24 04:02:55,951 [INFO] 2025-04-24 04:02:55 [ERROR] File system error: Disk full
+2025-04-24 04:02:59,744 [INFO] 2025-04-24 04:02:59 [INFO] Cache updated
+2025-04-24 04:03:02,128 [INFO] 2025-04-24 04:03:02 [INFO] Cache updated
+2025-04-24 04:03:05,957 [INFO] 2025-04-24 04:03:05 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:03:08,880 [INFO] 2025-04-24 04:03:08 [INFO] User logged in
+2025-04-24 04:03:13,505 [INFO] 2025-04-24 04:03:13 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:03:15,122 [INFO] 2025-04-24 04:03:15 [WARNING] High memory usage detected: 85%
+2025-04-24 04:03:19,962 [INFO] 2025-04-24 04:03:19 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:03:22,211 [INFO] 2025-04-24 04:03:22 [INFO] Database connection established
+2025-04-24 04:03:24,761 [INFO] 2025-04-24 04:03:24 [INFO] Cache updated
+2025-04-24 04:03:26,578 [INFO] 2025-04-24 04:03:26 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:03:28,430 [INFO] 2025-04-24 04:03:28 [WARNING] High memory usage detected: 85%
+2025-04-24 04:03:33,293 [INFO] 2025-04-24 04:03:33 [INFO] Application started successfully
+2025-04-24 04:03:34,442 [INFO] 2025-04-24 04:03:34 [INFO] Cache updated
+2025-04-24 04:03:35,963 [INFO] 2025-04-24 04:03:35 [WARNING] API rate limit approaching
+2025-04-24 04:03:39,354 [INFO] 2025-04-24 04:03:39 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:03:43,895 [INFO] 2025-04-24 04:03:43 [WARNING] API rate limit approaching
+2025-04-24 04:03:46,723 [INFO] 2025-04-24 04:03:46 [WARNING] Slow response time: 800ms
+2025-04-24 04:03:48,895 [INFO] 2025-04-24 04:03:48 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:03:52,104 [INFO] 2025-04-24 04:03:52 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:03:54,122 [INFO] 2025-04-24 04:03:54 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:03:55,201 [INFO] 2025-04-24 04:03:55 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:03:59,549 [INFO] 2025-04-24 04:03:59 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:04:02,698 [INFO] 2025-04-24 04:04:02 [WARNING] High memory usage detected: 85%
+2025-04-24 04:04:06,039 [INFO] 2025-04-24 04:04:06 [INFO] Cache updated
+2025-04-24 04:04:09,388 [INFO] 2025-04-24 04:04:09 [INFO] Application started successfully
+2025-04-24 04:04:12,937 [INFO] 2025-04-24 04:04:12 [WARNING] Cache miss rate increased
+2025-04-24 04:04:16,622 [INFO] 2025-04-24 04:04:16 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:04:18,679 [INFO] 2025-04-24 04:04:18 [WARNING] High memory usage detected: 85%
+2025-04-24 04:04:21,282 [INFO] 2025-04-24 04:04:21 [WARNING] Slow response time: 800ms
+2025-04-24 04:04:22,407 [INFO] 2025-04-24 04:04:22 [ERROR] File system error: Disk full
+2025-04-24 04:04:27,099 [INFO] 2025-04-24 04:04:27 [INFO] User logged in
+2025-04-24 04:04:31,352 [INFO] 2025-04-24 04:04:31 [INFO] Request processed successfully
+2025-04-24 04:04:34,182 [INFO] 2025-04-24 04:04:34 [INFO] Request processed successfully
+2025-04-24 04:04:35,349 [INFO] 2025-04-24 04:04:35 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:04:37,320 [INFO] 2025-04-24 04:04:37 [WARNING] Slow response time: 800ms
+2025-04-24 04:04:39,333 [INFO] 2025-04-24 04:04:39 [WARNING] API rate limit approaching
+2025-04-24 04:04:44,030 [INFO] 2025-04-24 04:04:44 [WARNING] Cache miss rate increased
+2025-04-24 04:04:47,792 [INFO] 2025-04-24 04:04:47 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:04:50,268 [INFO] 2025-04-24 04:04:50 [WARNING] API rate limit approaching
+2025-04-24 04:04:52,831 [INFO] 2025-04-24 04:04:52 [WARNING] API rate limit approaching
+2025-04-24 04:04:55,592 [INFO] 2025-04-24 04:04:55 [INFO] Request processed successfully
+2025-04-24 04:05:00,552 [INFO] 2025-04-24 04:05:00 [WARNING] Cache miss rate increased
+2025-04-24 04:05:04,300 [INFO] 2025-04-24 04:05:04 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:05:06,312 [INFO] 2025-04-24 04:05:06 [WARNING] High memory usage detected: 85%
+2025-04-24 04:05:08,712 [INFO] 2025-04-24 04:05:08 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:05:10,726 [INFO] 2025-04-24 04:05:10 [WARNING] High memory usage detected: 85%
+2025-04-24 04:05:12,315 [INFO] 2025-04-24 04:05:12 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:05:15,876 [INFO] 2025-04-24 04:05:15 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:05:18,624 [INFO] 2025-04-24 04:05:18 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:05:22,822 [INFO] 2025-04-24 04:05:22 [INFO] User logged in
+2025-04-24 04:05:25,566 [INFO] 2025-04-24 04:05:25 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:05:30,332 [INFO] 2025-04-24 04:05:30 [INFO] User logged in
+2025-04-24 04:05:33,893 [INFO] 2025-04-24 04:05:33 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:05:38,888 [INFO] 2025-04-24 04:05:38 [INFO] Database connection established
+2025-04-24 04:05:43,617 [INFO] 2025-04-24 04:05:43 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:05:47,427 [INFO] 2025-04-24 04:05:47 [INFO] Database connection established
+2025-04-24 04:05:51,326 [INFO] 2025-04-24 04:05:51 [WARNING] Slow response time: 800ms
+2025-04-24 04:05:52,690 [INFO] 2025-04-24 04:05:52 [INFO] User logged in
+2025-04-24 04:05:55,448 [INFO] 2025-04-24 04:05:55 [WARNING] API rate limit approaching
+2025-04-24 04:05:56,499 [INFO] 2025-04-24 04:05:56 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:05:58,310 [INFO] 2025-04-24 04:05:58 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:06:00,636 [INFO] 2025-04-24 04:06:00 [WARNING] Slow response time: 800ms
+2025-04-24 04:06:02,448 [INFO] 2025-04-24 04:06:02 [INFO] Request processed successfully
+2025-04-24 04:06:04,104 [INFO] 2025-04-24 04:06:04 [INFO] Application started successfully
+2025-04-24 04:06:07,980 [INFO] 2025-04-24 04:06:07 [INFO] Request processed successfully
+2025-04-24 04:06:11,394 [INFO] 2025-04-24 04:06:11 [WARNING] Slow response time: 800ms
+2025-04-24 04:06:12,842 [INFO] 2025-04-24 04:06:12 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:06:15,549 [INFO] 2025-04-24 04:06:15 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:06:18,961 [INFO] 2025-04-24 04:06:18 [INFO] Cache updated
+2025-04-24 04:06:21,529 [INFO] 2025-04-24 04:06:21 [INFO] Cache updated
+2025-04-24 04:06:22,764 [INFO] 2025-04-24 04:06:22 [INFO] Database connection established
+2025-04-24 04:06:26,913 [INFO] 2025-04-24 04:06:26 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:06:31,702 [INFO] 2025-04-24 04:06:31 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:06:32,976 [INFO] 2025-04-24 04:06:32 [INFO] Application started successfully
+2025-04-24 04:06:36,643 [INFO] 2025-04-24 04:06:36 [INFO] Application started successfully
+2025-04-24 04:06:40,803 [INFO] 2025-04-24 04:06:40 [WARNING] Slow response time: 800ms
+2025-04-24 04:06:42,582 [INFO] 2025-04-24 04:06:42 [WARNING] Cache miss rate increased
+2025-04-24 04:06:45,278 [INFO] 2025-04-24 04:06:45 [WARNING] Cache miss rate increased
+2025-04-24 04:06:49,425 [INFO] 2025-04-24 04:06:49 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:06:50,738 [INFO] 2025-04-24 04:06:50 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:06:53,963 [INFO] 2025-04-24 04:06:53 [ERROR] File system error: Disk full
+2025-04-24 04:06:56,169 [INFO] 2025-04-24 04:06:56 [INFO] Application started successfully
+2025-04-24 04:06:59,077 [INFO] 2025-04-24 04:06:59 [INFO] Request processed successfully
+2025-04-24 04:07:01,201 [INFO] 2025-04-24 04:07:01 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:07:04,236 [INFO] 2025-04-24 04:07:04 [INFO] Request processed successfully
+2025-04-24 04:07:07,289 [INFO] 2025-04-24 04:07:07 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:07:08,438 [INFO] 2025-04-24 04:07:08 [WARNING] High memory usage detected: 85%
+2025-04-24 04:07:10,322 [INFO] 2025-04-24 04:07:10 [INFO] Cache updated
+2025-04-24 04:07:13,322 [INFO] 2025-04-24 04:07:13 [WARNING] Slow response time: 800ms
+2025-04-24 04:07:15,742 [INFO] 2025-04-24 04:07:15 [WARNING] Slow response time: 800ms
+2025-04-24 04:07:17,794 [INFO] 2025-04-24 04:07:17 [ERROR] File system error: Disk full
+2025-04-24 04:07:21,307 [INFO] 2025-04-24 04:07:21 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:07:25,929 [INFO] 2025-04-24 04:07:25 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:07:26,948 [INFO] 2025-04-24 04:07:26 [WARNING] Cache miss rate increased
+2025-04-24 04:07:28,271 [INFO] 2025-04-24 04:07:28 [INFO] Cache updated
+2025-04-24 04:07:29,578 [INFO] 2025-04-24 04:07:29 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:07:31,527 [INFO] 2025-04-24 04:07:31 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:07:33,753 [INFO] 2025-04-24 04:07:33 [ERROR] File system error: Disk full
+2025-04-24 04:07:36,241 [INFO] 2025-04-24 04:07:36 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:07:39,510 [INFO] 2025-04-24 04:07:39 [WARNING] Slow response time: 800ms
+2025-04-24 04:07:42,887 [INFO] 2025-04-24 04:07:42 [WARNING] High memory usage detected: 85%
+2025-04-24 04:07:47,030 [INFO] 2025-04-24 04:07:47 [WARNING] Slow response time: 800ms
+2025-04-24 04:07:50,321 [INFO] 2025-04-24 04:07:50 [INFO] User logged in
+2025-04-24 04:07:51,800 [INFO] 2025-04-24 04:07:51 [INFO] Cache updated
+2025-04-24 04:07:54,709 [INFO] 2025-04-24 04:07:54 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:07:58,032 [INFO] 2025-04-24 04:07:58 [WARNING] High memory usage detected: 85%
+2025-04-24 04:08:02,414 [INFO] 2025-04-24 04:08:02 [INFO] Cache updated
+2025-04-24 04:08:06,764 [INFO] 2025-04-24 04:08:06 [INFO] Application started successfully
+2025-04-24 04:08:08,406 [INFO] 2025-04-24 04:08:08 [WARNING] Cache miss rate increased
+2025-04-24 04:08:10,915 [INFO] 2025-04-24 04:08:10 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:08:15,428 [INFO] 2025-04-24 04:08:15 [INFO] Request processed successfully
+2025-04-24 04:08:18,571 [INFO] 2025-04-24 04:08:18 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:08:22,230 [INFO] 2025-04-24 04:08:22 [INFO] Application started successfully
+2025-04-24 04:08:26,080 [INFO] 2025-04-24 04:08:26 [INFO] Cache updated
+2025-04-24 04:08:27,111 [INFO] 2025-04-24 04:08:27 [INFO] Database connection established
+2025-04-24 04:08:29,978 [INFO] 2025-04-24 04:08:29 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:08:32,901 [INFO] 2025-04-24 04:08:32 [WARNING] High memory usage detected: 85%
+2025-04-24 04:08:36,575 [INFO] 2025-04-24 04:08:36 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:08:41,159 [INFO] 2025-04-24 04:08:41 [WARNING] API rate limit approaching
+2025-04-24 04:08:44,057 [INFO] 2025-04-24 04:08:44 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:08:46,250 [INFO] 2025-04-24 04:08:46 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:08:50,808 [INFO] 2025-04-24 04:08:50 [ERROR] File system error: Disk full
+2025-04-24 04:08:52,961 [INFO] 2025-04-24 04:08:52 [ERROR] File system error: Disk full
+2025-04-24 04:08:54,228 [INFO] 2025-04-24 04:08:54 [INFO] Cache updated
+2025-04-24 04:08:57,250 [INFO] 2025-04-24 04:08:57 [WARNING] Cache miss rate increased
+2025-04-24 04:08:59,910 [INFO] 2025-04-24 04:08:59 [WARNING] Slow response time: 800ms
+2025-04-24 04:09:01,854 [INFO] 2025-04-24 04:09:01 [ERROR] File system error: Disk full
+2025-04-24 04:09:04,778 [INFO] 2025-04-24 04:09:04 [INFO] Request processed successfully
+2025-04-24 04:09:09,354 [INFO] 2025-04-24 04:09:09 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:09:13,063 [INFO] 2025-04-24 04:09:13 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:09:16,199 [INFO] 2025-04-24 04:09:16 [INFO] Database connection established
+2025-04-24 04:09:18,866 [INFO] 2025-04-24 04:09:18 [WARNING] Cache miss rate increased
+2025-04-24 04:09:23,008 [INFO] 2025-04-24 04:09:23 [INFO] Database connection established
+2025-04-24 04:09:26,134 [INFO] 2025-04-24 04:09:26 [WARNING] API rate limit approaching
+2025-04-24 04:09:27,623 [INFO] 2025-04-24 04:09:27 [INFO] User logged in
+2025-04-24 04:09:30,396 [INFO] 2025-04-24 04:09:30 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:09:34,914 [INFO] 2025-04-24 04:09:34 [INFO] Request processed successfully
+2025-04-24 04:09:38,873 [INFO] 2025-04-24 04:09:38 [INFO] Request processed successfully
+2025-04-24 04:09:42,696 [INFO] 2025-04-24 04:09:42 [ERROR] File system error: Disk full
+2025-04-24 04:09:45,026 [INFO] 2025-04-24 04:09:45 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:09:49,615 [INFO] 2025-04-24 04:09:49 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:09:51,711 [INFO] 2025-04-24 04:09:51 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:09:52,850 [INFO] 2025-04-24 04:09:52 [WARNING] High memory usage detected: 85%
+2025-04-24 04:09:56,577 [INFO] 2025-04-24 04:09:56 [WARNING] Slow response time: 800ms
+2025-04-24 04:09:59,492 [INFO] 2025-04-24 04:09:59 [WARNING] Cache miss rate increased
+2025-04-24 04:10:04,025 [INFO] 2025-04-24 04:10:04 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:10:08,753 [INFO] 2025-04-24 04:10:08 [WARNING] Cache miss rate increased
+2025-04-24 04:10:12,931 [INFO] 2025-04-24 04:10:12 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:10:16,530 [INFO] 2025-04-24 04:10:16 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:10:20,242 [INFO] 2025-04-24 04:10:20 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:10:22,250 [INFO] 2025-04-24 04:10:22 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:10:24,570 [INFO] 2025-04-24 04:10:24 [INFO] Database connection established
+2025-04-24 04:10:27,823 [INFO] 2025-04-24 04:10:27 [WARNING] High memory usage detected: 85%
+2025-04-24 04:10:32,069 [INFO] 2025-04-24 04:10:32 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:10:36,637 [INFO] 2025-04-24 04:10:36 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:10:39,621 [INFO] 2025-04-24 04:10:39 [WARNING] Slow response time: 800ms
+2025-04-24 04:10:40,942 [INFO] 2025-04-24 04:10:40 [WARNING] Cache miss rate increased
+2025-04-24 04:10:45,359 [INFO] 2025-04-24 04:10:45 [WARNING] Cache miss rate increased
+2025-04-24 04:10:50,317 [INFO] 2025-04-24 04:10:50 [INFO] User logged in
+2025-04-24 04:10:54,685 [INFO] 2025-04-24 04:10:54 [ERROR] File system error: Disk full
+2025-04-24 04:10:59,108 [INFO] 2025-04-24 04:10:59 [INFO] Database connection established
+2025-04-24 04:11:03,496 [INFO] 2025-04-24 04:11:03 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:11:07,219 [INFO] 2025-04-24 04:11:07 [INFO] Request processed successfully
+2025-04-24 04:11:09,696 [INFO] 2025-04-24 04:11:09 [INFO] Cache updated
+2025-04-24 04:11:11,361 [INFO] 2025-04-24 04:11:11 [WARNING] Slow response time: 800ms
+2025-04-24 04:11:12,795 [INFO] 2025-04-24 04:11:12 [ERROR] File system error: Disk full
+2025-04-24 04:11:16,577 [INFO] 2025-04-24 04:11:16 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:11:18,074 [INFO] 2025-04-24 04:11:18 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:11:19,953 [INFO] 2025-04-24 04:11:19 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:11:23,532 [INFO] 2025-04-24 04:11:23 [INFO] Database connection established
+2025-04-24 04:11:26,335 [INFO] 2025-04-24 04:11:26 [INFO] Database connection established
+2025-04-24 04:11:27,995 [INFO] 2025-04-24 04:11:27 [WARNING] High memory usage detected: 85%
+2025-04-24 04:11:32,012 [INFO] 2025-04-24 04:11:32 [WARNING] Cache miss rate increased
+2025-04-24 04:11:35,561 [INFO] 2025-04-24 04:11:35 [WARNING] High memory usage detected: 85%
+2025-04-24 04:11:36,815 [INFO] 2025-04-24 04:11:36 [INFO] Cache updated
+2025-04-24 04:11:41,183 [INFO] 2025-04-24 04:11:41 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:11:45,537 [INFO] 2025-04-24 04:11:45 [WARNING] Cache miss rate increased
+2025-04-24 04:11:50,417 [INFO] 2025-04-24 04:11:50 [WARNING] High memory usage detected: 85%
+2025-04-24 04:11:51,645 [INFO] 2025-04-24 04:11:51 [WARNING] Slow response time: 800ms
+2025-04-24 04:11:56,512 [INFO] 2025-04-24 04:11:56 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:11:57,934 [INFO] 2025-04-24 04:11:57 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:11:59,651 [INFO] 2025-04-24 04:11:59 [WARNING] High memory usage detected: 85%
+2025-04-24 04:12:01,454 [INFO] 2025-04-24 04:12:01 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:12:03,725 [INFO] 2025-04-24 04:12:03 [WARNING] High memory usage detected: 85%
+2025-04-24 04:12:05,338 [INFO] 2025-04-24 04:12:05 [ERROR] File system error: Disk full
+2025-04-24 04:12:07,413 [INFO] 2025-04-24 04:12:07 [WARNING] Slow response time: 800ms
+2025-04-24 04:12:09,697 [INFO] 2025-04-24 04:12:09 [WARNING] High memory usage detected: 85%
+2025-04-24 04:12:12,033 [INFO] 2025-04-24 04:12:12 [INFO] Application started successfully
+2025-04-24 04:12:13,402 [INFO] 2025-04-24 04:12:13 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:12:14,502 [INFO] 2025-04-24 04:12:14 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:12:15,875 [INFO] 2025-04-24 04:12:15 [WARNING] Slow response time: 800ms
+2025-04-24 04:12:19,996 [INFO] 2025-04-24 04:12:19 [INFO] Application started successfully
+2025-04-24 04:12:23,533 [INFO] 2025-04-24 04:12:23 [WARNING] API rate limit approaching
+2025-04-24 04:12:27,757 [INFO] 2025-04-24 04:12:27 [WARNING] Slow response time: 800ms
+2025-04-24 04:12:32,318 [INFO] 2025-04-24 04:12:32 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:12:33,382 [INFO] 2025-04-24 04:12:33 [INFO] Cache updated
+2025-04-24 04:12:37,410 [INFO] 2025-04-24 04:12:37 [INFO] Cache updated
+2025-04-24 04:12:42,328 [INFO] 2025-04-24 04:12:42 [WARNING] High memory usage detected: 85%
+2025-04-24 04:12:45,087 [INFO] 2025-04-24 04:12:45 [ERROR] File system error: Disk full
+2025-04-24 04:12:49,515 [INFO] 2025-04-24 04:12:49 [ERROR] File system error: Disk full
+2025-04-24 04:12:52,008 [INFO] 2025-04-24 04:12:52 [INFO] Cache updated
+2025-04-24 04:12:55,447 [INFO] 2025-04-24 04:12:55 [INFO] User logged in
+2025-04-24 04:13:00,396 [INFO] 2025-04-24 04:13:00 [WARNING] Slow response time: 800ms
+2025-04-24 04:13:05,091 [INFO] 2025-04-24 04:13:05 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:13:08,969 [INFO] 2025-04-24 04:13:08 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:13:12,029 [INFO] 2025-04-24 04:13:12 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:13:16,743 [INFO] 2025-04-24 04:13:16 [INFO] Database connection established
+2025-04-24 04:13:18,763 [INFO] 2025-04-24 04:13:18 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:13:22,964 [INFO] 2025-04-24 04:13:22 [WARNING] API rate limit approaching
+2025-04-24 04:13:25,704 [INFO] 2025-04-24 04:13:25 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:13:30,193 [INFO] 2025-04-24 04:13:30 [INFO] Cache updated
+2025-04-24 04:13:31,887 [INFO] 2025-04-24 04:13:31 [INFO] Database connection established
+2025-04-24 04:13:34,726 [INFO] 2025-04-24 04:13:34 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:13:36,994 [INFO] 2025-04-24 04:13:36 [INFO] Request processed successfully
+2025-04-24 04:13:41,254 [INFO] 2025-04-24 04:13:41 [WARNING] Slow response time: 800ms
+2025-04-24 04:13:44,861 [INFO] 2025-04-24 04:13:44 [INFO] Request processed successfully
+2025-04-24 04:13:47,508 [INFO] 2025-04-24 04:13:47 [WARNING] API rate limit approaching
+2025-04-24 04:13:51,861 [INFO] 2025-04-24 04:13:51 [WARNING] Slow response time: 800ms
+2025-04-24 04:13:55,933 [INFO] 2025-04-24 04:13:55 [WARNING] Cache miss rate increased
+2025-04-24 04:13:57,747 [INFO] 2025-04-24 04:13:57 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:14:00,775 [INFO] 2025-04-24 04:14:00 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:14:02,633 [INFO] 2025-04-24 04:14:02 [ERROR] File system error: Disk full
+2025-04-24 04:14:07,065 [INFO] 2025-04-24 04:14:07 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:14:11,938 [INFO] 2025-04-24 04:14:11 [WARNING] API rate limit approaching
+2025-04-24 04:14:14,567 [INFO] 2025-04-24 04:14:14 [WARNING] API rate limit approaching
+2025-04-24 04:14:17,038 [INFO] 2025-04-24 04:14:17 [ERROR] File system error: Disk full
+2025-04-24 04:14:20,506 [INFO] 2025-04-24 04:14:20 [INFO] Database connection established
+2025-04-24 04:14:22,079 [INFO] 2025-04-24 04:14:22 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:14:25,632 [INFO] 2025-04-24 04:14:25 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:14:28,597 [INFO] 2025-04-24 04:14:28 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:14:32,206 [INFO] 2025-04-24 04:14:32 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:14:33,256 [INFO] 2025-04-24 04:14:33 [WARNING] High memory usage detected: 85%
+2025-04-24 04:14:34,731 [INFO] 2025-04-24 04:14:34 [INFO] User logged in
+2025-04-24 04:14:38,551 [INFO] 2025-04-24 04:14:38 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:14:41,968 [INFO] 2025-04-24 04:14:41 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:14:44,846 [INFO] 2025-04-24 04:14:44 [WARNING] Slow response time: 800ms
+2025-04-24 04:14:48,506 [INFO] 2025-04-24 04:14:48 [WARNING] API rate limit approaching
+2025-04-24 04:14:49,605 [INFO] 2025-04-24 04:14:49 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:14:53,459 [INFO] 2025-04-24 04:14:53 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:14:56,677 [INFO] 2025-04-24 04:14:56 [WARNING] API rate limit approaching
+2025-04-24 04:15:00,714 [INFO] 2025-04-24 04:15:00 [WARNING] High memory usage detected: 85%
+2025-04-24 04:15:03,161 [INFO] 2025-04-24 04:15:03 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:15:06,125 [INFO] 2025-04-24 04:15:06 [WARNING] API rate limit approaching
+2025-04-24 04:15:07,705 [INFO] 2025-04-24 04:15:07 [WARNING] API rate limit approaching
+2025-04-24 04:15:09,233 [INFO] 2025-04-24 04:15:09 [INFO] Request processed successfully
+2025-04-24 04:15:11,978 [INFO] 2025-04-24 04:15:11 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:15:12,991 [INFO] 2025-04-24 04:15:12 [ERROR] File system error: Disk full
+2025-04-24 04:15:16,952 [INFO] 2025-04-24 04:15:16 [INFO] Cache updated
+2025-04-24 04:15:21,053 [INFO] 2025-04-24 04:15:21 [INFO] Database connection established
+2025-04-24 04:15:25,949 [INFO] 2025-04-24 04:15:25 [INFO] User logged in
+2025-04-24 04:15:29,174 [INFO] 2025-04-24 04:15:29 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:15:31,610 [INFO] 2025-04-24 04:15:31 [WARNING] API rate limit approaching
+2025-04-24 04:15:36,111 [INFO] 2025-04-24 04:15:36 [ERROR] File system error: Disk full
+2025-04-24 04:15:39,583 [INFO] 2025-04-24 04:15:39 [INFO] Request processed successfully
+2025-04-24 04:15:40,884 [INFO] 2025-04-24 04:15:40 [WARNING] Cache miss rate increased
+2025-04-24 04:15:45,400 [INFO] 2025-04-24 04:15:45 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:15:48,016 [INFO] 2025-04-24 04:15:48 [WARNING] Slow response time: 800ms
+2025-04-24 04:15:49,986 [INFO] 2025-04-24 04:15:49 [WARNING] API rate limit approaching
+2025-04-24 04:15:53,056 [INFO] 2025-04-24 04:15:53 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:15:57,985 [INFO] 2025-04-24 04:15:57 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:16:01,892 [INFO] 2025-04-24 04:16:01 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:16:03,354 [INFO] 2025-04-24 04:16:03 [INFO] Request processed successfully
+2025-04-24 04:16:06,086 [INFO] 2025-04-24 04:16:06 [WARNING] Cache miss rate increased
+2025-04-24 04:16:10,256 [INFO] 2025-04-24 04:16:10 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:16:14,090 [INFO] 2025-04-24 04:16:14 [INFO] Cache updated
+2025-04-24 04:16:15,716 [INFO] 2025-04-24 04:16:15 [INFO] Request processed successfully
+2025-04-24 04:16:19,319 [INFO] 2025-04-24 04:16:19 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:16:21,040 [INFO] 2025-04-24 04:16:21 [WARNING] High memory usage detected: 85%
+2025-04-24 04:16:25,870 [INFO] 2025-04-24 04:16:25 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:16:29,671 [INFO] 2025-04-24 04:16:29 [ERROR] File system error: Disk full
+2025-04-24 04:16:32,285 [INFO] 2025-04-24 04:16:32 [INFO] Request processed successfully
+2025-04-24 04:16:34,426 [INFO] 2025-04-24 04:16:34 [INFO] User logged in
+2025-04-24 04:16:35,701 [INFO] 2025-04-24 04:16:35 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:16:38,775 [INFO] 2025-04-24 04:16:38 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:16:42,120 [INFO] 2025-04-24 04:16:42 [INFO] Cache updated
+2025-04-24 04:16:46,995 [INFO] 2025-04-24 04:16:46 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:16:50,479 [INFO] 2025-04-24 04:16:50 [WARNING] API rate limit approaching
+2025-04-24 04:16:52,461 [INFO] 2025-04-24 04:16:52 [INFO] User logged in
+2025-04-24 04:16:57,187 [INFO] 2025-04-24 04:16:57 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:16:59,181 [INFO] 2025-04-24 04:16:59 [INFO] Application started successfully
+2025-04-24 04:17:00,578 [INFO] 2025-04-24 04:17:00 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:17:04,682 [INFO] 2025-04-24 04:17:04 [INFO] Cache updated
+2025-04-24 04:17:06,637 [INFO] 2025-04-24 04:17:06 [WARNING] High memory usage detected: 85%
+2025-04-24 04:17:08,554 [INFO] 2025-04-24 04:17:08 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:17:12,569 [INFO] 2025-04-24 04:17:12 [INFO] Database connection established
+2025-04-24 04:17:16,424 [INFO] 2025-04-24 04:17:16 [INFO] Application started successfully
+2025-04-24 04:17:17,569 [INFO] 2025-04-24 04:17:17 [WARNING] High memory usage detected: 85%
+2025-04-24 04:17:18,770 [INFO] 2025-04-24 04:17:18 [INFO] Application started successfully
+2025-04-24 04:17:21,231 [INFO] 2025-04-24 04:17:21 [INFO] Cache updated
+2025-04-24 04:17:24,400 [INFO] 2025-04-24 04:17:24 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:17:26,389 [INFO] 2025-04-24 04:17:26 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:17:29,016 [INFO] 2025-04-24 04:17:29 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:17:33,826 [INFO] 2025-04-24 04:17:33 [WARNING] High memory usage detected: 85%
+2025-04-24 04:17:37,970 [INFO] 2025-04-24 04:17:37 [WARNING] Slow response time: 800ms
+2025-04-24 04:17:40,357 [INFO] 2025-04-24 04:17:40 [INFO] User logged in
+2025-04-24 04:17:41,436 [INFO] 2025-04-24 04:17:41 [ERROR] File system error: Disk full
+2025-04-24 04:17:42,905 [INFO] 2025-04-24 04:17:42 [WARNING] High memory usage detected: 85%
+2025-04-24 04:17:45,994 [INFO] 2025-04-24 04:17:45 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:17:47,004 [INFO] 2025-04-24 04:17:47 [INFO] User logged in
+2025-04-24 04:17:49,665 [INFO] 2025-04-24 04:17:49 [WARNING] Slow response time: 800ms
+2025-04-24 04:17:51,898 [INFO] 2025-04-24 04:17:51 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:17:55,462 [INFO] 2025-04-24 04:17:55 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:17:58,272 [INFO] 2025-04-24 04:17:58 [INFO] User logged in
+2025-04-24 04:17:59,641 [INFO] 2025-04-24 04:17:59 [WARNING] High memory usage detected: 85%
+2025-04-24 04:18:02,782 [INFO] 2025-04-24 04:18:02 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:18:06,771 [INFO] 2025-04-24 04:18:06 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:18:08,465 [INFO] 2025-04-24 04:18:08 [WARNING] Cache miss rate increased
+2025-04-24 04:18:11,856 [INFO] 2025-04-24 04:18:11 [INFO] Request processed successfully
+2025-04-24 04:18:14,791 [INFO] 2025-04-24 04:18:14 [INFO] Request processed successfully
+2025-04-24 04:18:19,536 [INFO] 2025-04-24 04:18:19 [WARNING] Cache miss rate increased
+2025-04-24 04:18:23,118 [INFO] 2025-04-24 04:18:23 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:18:25,784 [INFO] 2025-04-24 04:18:25 [INFO] Application started successfully
+2025-04-24 04:18:27,536 [INFO] 2025-04-24 04:18:27 [WARNING] High memory usage detected: 85%
+2025-04-24 04:18:31,120 [INFO] 2025-04-24 04:18:31 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:18:36,111 [INFO] 2025-04-24 04:18:36 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:18:39,687 [INFO] 2025-04-24 04:18:39 [INFO] Request processed successfully
+2025-04-24 04:18:42,482 [INFO] 2025-04-24 04:18:42 [WARNING] High memory usage detected: 85%
+2025-04-24 04:18:44,882 [INFO] 2025-04-24 04:18:44 [WARNING] High memory usage detected: 85%
+2025-04-24 04:18:48,027 [INFO] 2025-04-24 04:18:48 [WARNING] High memory usage detected: 85%
+2025-04-24 04:18:51,221 [INFO] 2025-04-24 04:18:51 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:18:52,911 [INFO] 2025-04-24 04:18:52 [INFO] Database connection established
+2025-04-24 04:18:56,469 [INFO] 2025-04-24 04:18:56 [WARNING] Slow response time: 800ms
+2025-04-24 04:18:59,885 [INFO] 2025-04-24 04:18:59 [INFO] Database connection established
+2025-04-24 04:19:04,877 [INFO] 2025-04-24 04:19:04 [INFO] Database connection established
+2025-04-24 04:19:08,435 [INFO] 2025-04-24 04:19:08 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:19:11,133 [INFO] 2025-04-24 04:19:11 [INFO] Request processed successfully
+2025-04-24 04:19:14,241 [INFO] 2025-04-24 04:19:14 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:19:18,553 [INFO] 2025-04-24 04:19:18 [WARNING] High memory usage detected: 85%
+2025-04-24 04:19:23,288 [INFO] 2025-04-24 04:19:23 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:19:25,572 [INFO] 2025-04-24 04:19:25 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:19:27,886 [INFO] 2025-04-24 04:19:27 [INFO] Application started successfully
+2025-04-24 04:19:32,194 [INFO] 2025-04-24 04:19:32 [WARNING] Slow response time: 800ms
+2025-04-24 04:19:36,240 [INFO] 2025-04-24 04:19:36 [WARNING] Slow response time: 800ms
+2025-04-24 04:19:40,998 [INFO] 2025-04-24 04:19:40 [INFO] Application started successfully
+2025-04-24 04:19:44,428 [INFO] 2025-04-24 04:19:44 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:19:47,649 [INFO] 2025-04-24 04:19:47 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:19:50,174 [INFO] 2025-04-24 04:19:50 [ERROR] File system error: Disk full
+2025-04-24 04:19:51,895 [INFO] 2025-04-24 04:19:51 [WARNING] API rate limit approaching
+2025-04-24 04:19:55,538 [INFO] 2025-04-24 04:19:55 [INFO] Application started successfully
+2025-04-24 04:19:59,353 [INFO] 2025-04-24 04:19:59 [INFO] Database connection established
+2025-04-24 04:20:00,542 [INFO] 2025-04-24 04:20:00 [INFO] Cache updated
+2025-04-24 04:20:04,398 [INFO] 2025-04-24 04:20:04 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:20:07,675 [INFO] 2025-04-24 04:20:07 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:20:12,539 [INFO] 2025-04-24 04:20:12 [WARNING] API rate limit approaching
+2025-04-24 04:20:15,263 [INFO] 2025-04-24 04:20:15 [WARNING] High memory usage detected: 85%
+2025-04-24 04:20:19,590 [INFO] 2025-04-24 04:20:19 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:20:23,232 [INFO] 2025-04-24 04:20:23 [INFO] Request processed successfully
+2025-04-24 04:20:27,421 [INFO] 2025-04-24 04:20:27 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:20:30,473 [INFO] 2025-04-24 04:20:30 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:20:31,763 [INFO] 2025-04-24 04:20:31 [WARNING] API rate limit approaching
+2025-04-24 04:20:34,222 [INFO] 2025-04-24 04:20:34 [WARNING] High memory usage detected: 85%
+2025-04-24 04:20:38,428 [INFO] 2025-04-24 04:20:38 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:20:41,972 [INFO] 2025-04-24 04:20:41 [INFO] User logged in
+2025-04-24 04:20:45,581 [INFO] 2025-04-24 04:20:45 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:20:47,441 [INFO] 2025-04-24 04:20:47 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:20:49,277 [INFO] 2025-04-24 04:20:49 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:20:50,974 [INFO] 2025-04-24 04:20:50 [INFO] Request processed successfully
+2025-04-24 04:20:53,153 [INFO] 2025-04-24 04:20:53 [WARNING] High memory usage detected: 85%
+2025-04-24 04:20:54,586 [INFO] 2025-04-24 04:20:54 [INFO] Request processed successfully
+2025-04-24 04:20:57,508 [INFO] 2025-04-24 04:20:57 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:21:00,344 [INFO] 2025-04-24 04:21:00 [WARNING] API rate limit approaching
+2025-04-24 04:21:04,091 [INFO] 2025-04-24 04:21:04 [INFO] Cache updated
+2025-04-24 04:21:05,700 [INFO] 2025-04-24 04:21:05 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:21:08,233 [INFO] 2025-04-24 04:21:08 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:21:11,656 [INFO] 2025-04-24 04:21:11 [WARNING] High memory usage detected: 85%
+2025-04-24 04:21:14,022 [INFO] 2025-04-24 04:21:14 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:21:17,426 [INFO] 2025-04-24 04:21:17 [INFO] Request processed successfully
+2025-04-24 04:21:20,519 [INFO] 2025-04-24 04:21:20 [INFO] Cache updated
+2025-04-24 04:21:23,573 [INFO] 2025-04-24 04:21:23 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:21:28,200 [INFO] 2025-04-24 04:21:28 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:21:30,291 [INFO] 2025-04-24 04:21:30 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:21:32,878 [INFO] 2025-04-24 04:21:32 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:21:37,691 [INFO] 2025-04-24 04:21:37 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:21:41,189 [INFO] 2025-04-24 04:21:41 [ERROR] File system error: Disk full
+2025-04-24 04:21:42,217 [INFO] 2025-04-24 04:21:42 [INFO] Request processed successfully
+2025-04-24 04:21:47,096 [INFO] 2025-04-24 04:21:47 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:21:48,330 [INFO] 2025-04-24 04:21:48 [WARNING] High memory usage detected: 85%
+2025-04-24 04:21:53,096 [INFO] 2025-04-24 04:21:53 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:21:54,122 [INFO] 2025-04-24 04:21:54 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:21:58,172 [INFO] 2025-04-24 04:21:58 [INFO] Request processed successfully
+2025-04-24 04:22:02,583 [INFO] 2025-04-24 04:22:02 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:22:03,998 [INFO] 2025-04-24 04:22:03 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:22:08,803 [INFO] 2025-04-24 04:22:08 [INFO] User logged in
+2025-04-24 04:22:09,984 [INFO] 2025-04-24 04:22:09 [INFO] Cache updated
+2025-04-24 04:22:14,389 [INFO] 2025-04-24 04:22:14 [INFO] Cache updated
+2025-04-24 04:22:17,469 [INFO] 2025-04-24 04:22:17 [INFO] Request processed successfully
+2025-04-24 04:22:18,948 [INFO] 2025-04-24 04:22:18 [WARNING] Slow response time: 800ms
+2025-04-24 04:22:23,389 [INFO] 2025-04-24 04:22:23 [INFO] Request processed successfully
+2025-04-24 04:22:27,510 [INFO] 2025-04-24 04:22:27 [INFO] Request processed successfully
+2025-04-24 04:22:29,101 [INFO] 2025-04-24 04:22:29 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:22:33,716 [INFO] 2025-04-24 04:22:33 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:22:38,339 [INFO] 2025-04-24 04:22:38 [INFO] User logged in
+2025-04-24 04:22:39,766 [INFO] 2025-04-24 04:22:39 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:22:42,919 [INFO] 2025-04-24 04:22:42 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:22:44,699 [INFO] 2025-04-24 04:22:44 [INFO] Database connection established
+2025-04-24 04:22:45,889 [INFO] 2025-04-24 04:22:45 [ERROR] File system error: Disk full
+2025-04-24 04:22:49,589 [INFO] 2025-04-24 04:22:49 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:22:50,969 [INFO] 2025-04-24 04:22:50 [WARNING] Slow response time: 800ms
+2025-04-24 04:22:55,753 [INFO] 2025-04-24 04:22:55 [WARNING] Slow response time: 800ms
+2025-04-24 04:22:57,221 [INFO] 2025-04-24 04:22:57 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:22:58,411 [INFO] 2025-04-24 04:22:58 [INFO] Cache updated
+2025-04-24 04:23:00,857 [INFO] 2025-04-24 04:23:00 [WARNING] Slow response time: 800ms
+2025-04-24 04:23:04,840 [INFO] 2025-04-24 04:23:04 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:23:08,919 [INFO] 2025-04-24 04:23:08 [WARNING] Slow response time: 800ms
+2025-04-24 04:23:13,889 [INFO] 2025-04-24 04:23:13 [ERROR] API endpoint unavailable: 503 Service Unavailable
+2025-04-24 04:23:17,246 [INFO] 2025-04-24 04:23:17 [WARNING] Cache miss rate increased
+2025-04-24 04:23:18,775 [INFO] 2025-04-24 04:23:18 [INFO] Database connection established
+2025-04-24 04:23:21,687 [INFO] 2025-04-24 04:23:21 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:23:24,279 [INFO] 2025-04-24 04:23:24 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:23:28,957 [INFO] 2025-04-24 04:23:28 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:23:30,133 [INFO] 2025-04-24 04:23:30 [ERROR] Payment processing failed: Invalid card
+2025-04-24 04:23:34,229 [INFO] 2025-04-24 04:23:34 [INFO] Cache updated
+2025-04-24 04:23:38,762 [INFO] 2025-04-24 04:23:38 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:23:40,997 [INFO] 2025-04-24 04:23:40 [WARNING] API rate limit approaching
+2025-04-24 04:23:43,864 [INFO] 2025-04-24 04:23:43 [INFO] Application started successfully
+2025-04-24 04:23:46,022 [INFO] 2025-04-24 04:23:46 [ERROR] Database connection failed: Connection timeout
+2025-04-24 04:23:47,732 [INFO] 2025-04-24 04:23:47 [ERROR] Memory allocation error: Out of memory
+2025-04-24 04:23:52,611 [INFO] 2025-04-24 04:23:52 [WARNING] Database connection pool at 80% capacity
+2025-04-24 04:23:54,831 [INFO] 2025-04-24 04:23:54 [WARNING] Cache miss rate increased
+2025-04-24 04:23:58,459 [INFO] 2025-04-24 04:23:58 [INFO] Request processed successfully
+2025-04-24 04:24:02,596 [INFO] 2025-04-24 04:24:02 [INFO] Cache updated

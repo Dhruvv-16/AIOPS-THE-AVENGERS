@@ -1,0 +1,152 @@
+2025-04-24 03:55:25,504 - ERROR - Log path does not exist:  ./app.log
+2025-04-24 04:38:37,767 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/monitor.log', is_recursive=False> - it is already scheduled
+2025-04-24 04:38:38,568 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/monitor.log', is_recursive=False> - it is already scheduled
+2025-04-24 04:38:40,718 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/monitor.log', is_recursive=False> - it is already scheduled
+2025-04-24 04:57:33,463 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 04:57:33,670 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 04:57:33,854 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 04:57:34,020 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.9/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+RuntimeError: Cannot add watch <ObservedWatch: path='/Users/dhruvv/Downloads/log_analyzer/new/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:21:25,413 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:29,848 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:30,697 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:33,321 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:51,581 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:51,777 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:51,941 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:52,259 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:52,409 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:54,564 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:21:58,712 - ERROR - Log path does not exist:  ./logs/app.log
+2025-04-24 05:24:42,433 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:24:42,767 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:24:42,965 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:24:43,162 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:24:43,473 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:24:43,749 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:24:43,947 - ERROR - Unhandled exception in FSEventsEmitter
+Traceback (most recent call last):
+  File "/Users/dhruvv/Downloads/log_analyzer/new/.venv/lib/python3.13/site-packages/watchdog/observers/fsevents.py", line 307, in run
+    _fsevents.add_watch(self, self.watch, self.events_callback, self.pathnames)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Cannot add watch <ObservedWatch: path='./logs/app.log', is_recursive=False> - it is already scheduled
+2025-04-24 05:28:48,488 - ERROR - Log path does not exist: ./logs/app.log 
+2025-04-24 05:28:56,616 - ERROR - Log path does not exist: ./logs/app.log 
+2025-04-24 05:28:59,721 - ERROR - Log path does not exist: ./logs/app.log 
+2025-04-24 05:29:03,585 - ERROR - Log path does not exist: ./logs/app.log 
+2025-04-24 05:29:05,903 - ERROR - Log path does not exist: ./logs/app.log 
+2025-04-24 05:33:07,801 - ERROR - Log path does not exist: ./logs/app.log 
+2025-04-24 05:56:53,899 - ERROR - Log path does not exist: ./logs/app.log.
+2025-04-24 09:21:19,329 - INFO - Stopped monitoring
+2025-04-24 09:21:19,334 - INFO - Started monitoring application app_1
+2025-04-24 09:21:23,187 - INFO - Stopped monitoring
+2025-04-24 09:21:23,188 - INFO - Started monitoring application app_1
+2025-04-24 09:21:25,171 - INFO - Stopped monitoring
+2025-04-24 09:21:25,174 - INFO - Started monitoring application app_1
+2025-04-24 09:21:25,379 - INFO - Stopped monitoring
+2025-04-24 09:21:25,380 - INFO - Started monitoring application app_1
+2025-04-24 09:21:25,485 - INFO - Stopped monitoring
+2025-04-24 09:21:25,487 - INFO - Started monitoring application app_1
+2025-04-24 09:21:25,697 - INFO - Stopped monitoring
+2025-04-24 09:21:25,700 - INFO - Started monitoring application app_1
+2025-04-24 09:21:26,012 - INFO - Stopped monitoring
+2025-04-24 09:21:26,014 - INFO - Started monitoring application app_1
+2025-04-24 09:25:01,438 - INFO - Stopped monitoring
+2025-04-24 09:25:01,442 - INFO - Started monitoring application app_1
+2025-04-24 09:25:04,363 - INFO - Stopped monitoring
+2025-04-24 09:25:04,365 - INFO - Started monitoring application app_1
+2025-04-24 09:25:04,782 - INFO - Stopped monitoring
+2025-04-24 09:25:04,783 - INFO - Started monitoring application app_1
+2025-04-24 09:25:04,992 - INFO - Stopped monitoring
+2025-04-24 09:25:04,994 - INFO - Started monitoring application app_1
+2025-04-24 09:25:05,200 - INFO - Stopped monitoring
+2025-04-24 09:25:05,202 - INFO - Started monitoring application app_1
+2025-04-24 09:25:05,409 - INFO - Stopped monitoring
+2025-04-24 09:25:05,411 - INFO - Started monitoring application app_1
+2025-04-24 09:25:05,621 - INFO - Stopped monitoring
+2025-04-24 09:25:05,624 - INFO - Started monitoring application app_1
+2025-04-24 09:25:05,833 - INFO - Stopped monitoring
+2025-04-24 09:25:05,834 - INFO - Started monitoring application app_1
+2025-04-24 09:25:06,041 - INFO - Stopped monitoring
+2025-04-24 09:25:06,042 - INFO - Started monitoring application app_1
+2025-04-24 09:25:06,356 - INFO - Stopped monitoring
+2025-04-24 09:25:06,358 - INFO - Started monitoring application app_1
+2025-04-24 09:25:06,567 - INFO - Stopped monitoring
+2025-04-24 09:25:06,570 - INFO - Started monitoring application app_1
+2025-04-24 09:25:06,780 - INFO - Stopped monitoring
+2025-04-24 09:25:06,781 - INFO - Started monitoring application app_1
+2025-04-24 09:28:49,517 - INFO - Stopped monitoring
+2025-04-24 09:28:49,522 - INFO - Started monitoring application app_1
+2025-04-24 09:28:51,610 - INFO - Stopped monitoring
+2025-04-24 09:28:51,611 - INFO - Started monitoring application app_1
+2025-04-24 09:28:51,819 - INFO - Stopped monitoring
+2025-04-24 09:28:51,821 - INFO - Started monitoring application app_1
+2025-04-24 09:28:52,029 - INFO - Stopped monitoring
+2025-04-24 09:28:52,031 - INFO - Started monitoring application app_1
+2025-04-24 09:28:52,237 - INFO - Stopped monitoring
+2025-04-24 09:28:52,240 - INFO - Started monitoring application app_1
+2025-04-24 09:28:52,340 - INFO - Stopped monitoring
+2025-04-24 09:28:52,341 - INFO - Started monitoring application app_1
+2025-04-24 09:28:52,878 - INFO - Stopped monitoring
+2025-04-24 09:28:52,880 - INFO - Started monitoring application app_1
+2025-04-24 09:33:41,030 - INFO - Stopped monitoring
+2025-04-24 09:33:41,035 - INFO - Started monitoring application app_1
+2025-04-24 09:36:12,832 - INFO - Stopped monitoring
+2025-04-24 09:36:12,837 - INFO - Started monitoring application app_1

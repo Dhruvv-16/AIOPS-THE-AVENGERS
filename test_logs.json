@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "2024-04-01T10:00:00Z",
+        "level": "INFO",
+        "message": "Application started successfully",
+        "service": "payment-service"
+    },
+    {
+        "timestamp": "2024-04-01T10:01:00Z",
+        "level": "WARNING",
+        "message": "High memory usage detected: 85%",
+        "service": "payment-service"
+    },
+    {
+        "timestamp": "2024-04-01T10:02:00Z",
+        "level": "ERROR",
+        "message": "Failed to connect to database: Connection timeout",
+        "service": "payment-service"
+    },
+    {
+        "timestamp": "2024-04-01T10:03:00Z",
+        "level": "ERROR",
+        "message": "Payment processing failed: Invalid card number",
+        "service": "payment-service"
+    },
+    {
+        "timestamp": "2024-04-01T10:04:00Z",
+        "level": "INFO",
+        "message": "Database connection restored",
+        "service": "payment-service"
+    },
+    {
+        "timestamp": "2024-04-01T10:05:00Z",
+        "level": "WARNING",
+        "message": "API response time exceeded threshold: 2.5s",
+        "service": "payment-service"
+    }
+] 

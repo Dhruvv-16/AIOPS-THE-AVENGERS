@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Test Web App",
+    "log_source": "Prometheus",
+    "prometheus_url": "http://localhost:9090"
+  },
+  {
+    "App Name": "E-Commerce Platform",
+    "App URL": "https://shop.example.com",
+    "Client": {
+      "Name": "echRetail Inc.",
+      "Email": "alerts@techretail.com",
+      "Phone": "+1-555-0123"
+    },
+    "Environment": "Production",
+    "Technical": {
+      "Stack": [
+        "Python",
+        "Node.js",
+        "Go"
+      ],
+      "Databases": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "Deployment": "AWS",
+      "Containers": [
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    "Monitoring": {
+      "Log Source": "ELK Stack",
+      "Log Format": "JSON",
+      "Frequency": 67,
+      "Retention Days": 30
+    },
+    "Alerts": {
+      "Severity Levels": [
+        "HIGH",
+        "MEDIUM"
+      ],
+      "Channels": [
+        "Email"
+      ],
+      "Automation Level": "Auto-fix Low Risk Issues"
+    },
+    "API Credentials": {
+      "elk": {
+        "url": "https://elk.techretail.com",
+        "username": "monitoring_user",
+        "password": "test_password123"
+      }
+    },
+    "Tags": [
+      "e-commerce",
+      "critical",
+      "payment-system"
+    ],
+    "Notes": "High-traffic e-commerce platform processing sensitive payment data. Requires immediate attention for any payment-related errors.",
+    "Registration Date": "2025-04-24T03:15:14.100911"
+  },
+  {
+    "App Name": "E-Commerce Platform",
+    "App URL": "https://shop.example.com",
+    "Client": {
+      "Name": "echRetail Inc.",
+      "Email": "alerts@techretail.com",
+      "Phone": "+1-555-0123"
+    },
+    "Environment": "Production",
+    "Technical": {
+      "Stack": [
+        "Python",
+        "Node.js",
+        "Go"
+      ],
+      "Databases": [
+        "MongoDB",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "Deployment": "AWS",
+      "Containers": [
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    "Monitoring": {
+      "Log Source": "ELK Stack",
+      "Log Format": "JSON",
+      "Frequency": 60,
+      "Retention Days": 30
+    },
+    "Alerts": {
+      "Severity Levels": [
+        "HIGH",
+        "MEDIUM"
+      ],
+      "Channels": [
+        "Email"
+      ],
+      "Automation Level": "Auto-fix Low Risk Issues"
+    },
+    "API Credentials": {
+      "elk": {
+        "url": "https://elk.techretail.com",
+        "username": "monitoring_user",
+        "password": "monitoring_user"
+      }
+    },
+    "Tags": [
+      "e-commerce",
+      "critical",
+      "payment-system"
+    ],
+    "Notes": "High-traffic e-commerce platform processing sensitive payment data. Requires immediate attention for any payment-related errors.",
+    "Registration Date": "2025-04-24T03:20:31.647575"
+  }
+]
